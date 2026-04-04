@@ -58,8 +58,15 @@
 - Nếu người dùng muốn ôn tập, hãy đặt câu hỏi kiểm tra kiến thức.
 - Thứ tự học nên theo tuần từ thấp đến cao vì kiến thức có tính kế thừa.
 
+## Git Remote
+
+- Repo này được push lên GitHub tại: `https://github.com/phamngockcdav/datascience_cole`
+- Branch chính: `main`
+- Khi cần push, chạy: `git push origin main`
+
 ## Lưu ý
 
 - Week 10, 11, 15 không có trong repo (có thể là tuần nghỉ hoặc ôn tập).
 - Một số tuần có file PDF slides bài giảng, một số chỉ có notebook.
 - Dữ liệu mẫu (CSV) đi kèm trong cùng thư mục với notebook.
+- File `week20/books/Books.csv` (~70MB) vượt mức khuyến nghị 50MB của GitHub. Nếu cần thêm file lớn hơn 100MB, sử dụng Git LFS.
