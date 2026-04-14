@@ -10,7 +10,9 @@ Tạo bản tóm tắt nhanh kiến thức từ tuần $ARGUMENTS.
 
 ### Bước 2: Tạo bản tóm tắt (file markdown)
 
-Tạo file tóm tắt tại thư mục gốc: `tomtat_week_X.md` hoặc `tomtat_week_X_to_Y.md`
+Tạo file tóm tắt **trong thư mục của tuần đó**:
+- 1 tuần (ví dụ 17) → `week17/tomtat_week17.md`
+- Nhiều tuần (ví dụ 16-17) → mỗi tuần 1 file: `week16/tomtat_week16.md`, `week17/tomtat_week17.md`
 
 Cấu trúc tóm tắt — **ngắn gọn, dễ lướt mắt**:
 
